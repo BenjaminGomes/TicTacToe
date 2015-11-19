@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="statusMessage">Default Message</string>
+    <string name="menu_newGame">New Game</string>
+    <string name="player0">X</string>
+    <string name="player1">O</string>
+
+    <string name="x_title">Player Xs Name</string>
+    <string name="x_summary">Change name</string>
+    <string name="o_title">Player Os Name</string>
+    <string name="o_summary">Change name</string>
+</resources>

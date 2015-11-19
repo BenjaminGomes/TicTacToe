@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="x_preference"
+        android:title="@string/x_title"
+        android:summary="@string/x_summary"
+        android:defaultValue="X"/>
+    <EditTextPreference
+        android:key="o_preference"
+        android:title="@string/o_title"
+        android:summary="@string/o_summary"
+        android:defaultValue="O"/>
+</PreferenceScreen>
